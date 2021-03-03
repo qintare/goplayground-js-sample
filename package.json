@@ -1,0 +1,25 @@
+{
+  "name": "goplayground-js-sample",
+  "version": "1.0.0",
+  "description": "https://github.com/syumai/goplayground-js/tree/master/node",
+  "main": "index.js",
+  "dependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muroon/goplayground-js-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muroon/goplayground-js-sample/issues"
+  },
+  "homepage": "https://github.com/muroon/goplayground-js-sample#readme"
+}
